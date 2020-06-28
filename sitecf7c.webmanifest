@@ -1,0 +1,20 @@
+{
+    "name": "Space legion Website",
+    "short_name": "Space legion Website",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=7k420ye426",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png?v=7k420ye426",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "https://depau.eu",
+    "display": "standalone"
+}
