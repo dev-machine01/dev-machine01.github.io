@@ -1,6 +1,7 @@
 <p align="center">
-  <h3 align="center">dev-machine01.github.io</h3>
-  <p align="center">space-legion-timeshift</p>
+  
+  **[Space Legion](https://sarosx.github.io)**
+  
 
   <p align="center">
     <a href="https://github.com/dev-machine01/dev-machine01.github.io/blob/master/LICENSE.md">
@@ -20,6 +21,3 @@ This repository stores all the basic elements of the legion!
 
 
 
-**[Space Legion](https://sarosx.github.io)** 
-
----
